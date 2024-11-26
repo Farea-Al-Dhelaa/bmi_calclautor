@@ -4,14 +4,14 @@ A simple and user-friendly BMI (Body Mass Index) Calculator built with Flutter. 
 
 ## 📸 Screenshots
  this is small project for purposes learning in flutter it's age calculator contains more principles like responsive and provider and clean architecture 
- 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 30px; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/dark_theme.jpg" width="200" height="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);" />
-    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/home.jpg" width="200" height="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);" />
-    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/result.jpg" width="200" height="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);" />
+  <div style="display: flex; justify-content: center; gap: 50px;">
+    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/dark_theme.jpg" width="200" height="400" />
+    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/home.jpg" width="200" height="400" />
+    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/result.jpg" width="200" height="400" />
   </div>
 </p>
+
 
 
 ## Features
