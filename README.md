@@ -2,6 +2,23 @@
 
 A simple and user-friendly BMI (Body Mass Index) Calculator built with Flutter. This app helps users calculate their BMI and provides health advice based on their BMI value. It also includes features such as theme customization (light/dark mode), sharing the result, and a beautiful splash screen.
 
+## 📸 Screenshots
+ this is small project for purposes learning in flutter it's age calculator contains more principles like responsive and provider and clean architecture 
+ 
+---
+<p align="center">
+  <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/dark_theme.jpg" width="150" height="250" />
+  </p>
+---
+  <p align="center">
+  <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/home.jpg" width="150" height="250" />
+  </p>
+---
+<p align="center">
+  <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/result.jpg" width="150" height="250" />
+</p>
+
+
 ## Features
 
 - **BMI Calculation:** 
