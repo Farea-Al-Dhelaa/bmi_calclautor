@@ -7,9 +7,9 @@ A simple and user-friendly BMI (Body Mass Index) Calculator built with Flutter. 
  
 ---
 <p align="center">
-  <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/dark_theme.jpg" width="150" height="250" />
-   <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/home.jpg" width="150" height="250" />
-  <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/result.jpg" width="150" height="250" />
+  <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/dark_theme.jpg" width="150" height="300" />
+   <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/home.jpg" width="150" height="300" />
+  <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/result.jpg" width="150" height="300" />
 </p>
 ---
 
