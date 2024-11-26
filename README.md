@@ -6,13 +6,16 @@ A simple and user-friendly BMI (Body Mass Index) Calculator built with Flutter. 
  this is small project for purposes learning in flutter it's age calculator contains more principles like responsive and provider and clean architecture 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 50px;">
-    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/dark_theme.jpg" width="200" height="400" />
-    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/home.jpg" width="200" height="400" />
-    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/result.jpg" width="200" height="400" />
+    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/dark_theme.jpg" width="200" height="350"  title="hover text">
+    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/home.jpg" width="200" height="350">
+    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/result.jpg" width="200" height="350">
   </div>
 </p>
 
-
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 ## Features
 
