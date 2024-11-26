@@ -5,13 +5,14 @@ A simple and user-friendly BMI (Body Mass Index) Calculator built with Flutter. 
 ## 📸 Screenshots
  this is small project for purposes learning in flutter it's age calculator contains more principles like responsive and provider and clean architecture 
  
----
 <p align="center">
-  <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/dark_theme.jpg" width="200" height="500" />
-   <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/home.jpg" width="200" height="500" />
-  <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/result.jpg" width="200" height="500" />
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/dark_theme.jpg" width="200" height="400" />
+    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/home.jpg" width="200" height="400" />
+    <img src="https://github.com/Farea-Al-Dhelaa/bmi_calclautor/blob/main/images/Screenshots/result.jpg" width="200" height="400" />
+  </div>
 </p>
----
+
 
 ## Features
 
